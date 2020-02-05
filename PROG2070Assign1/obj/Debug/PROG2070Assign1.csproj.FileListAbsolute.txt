@@ -1,0 +1,6 @@
+F:\College\Semester 4\Software Quality Assurance\Assignment 1\PROG2070Assign1\PROG2070Assign1\bin\Debug\PROG2070Assign1.exe.config
+F:\College\Semester 4\Software Quality Assurance\Assignment 1\PROG2070Assign1\PROG2070Assign1\bin\Debug\PROG2070Assign1.exe
+F:\College\Semester 4\Software Quality Assurance\Assignment 1\PROG2070Assign1\PROG2070Assign1\bin\Debug\PROG2070Assign1.pdb
+F:\College\Semester 4\Software Quality Assurance\Assignment 1\PROG2070Assign1\PROG2070Assign1\obj\Debug\PROG2070Assign1.csprojAssemblyReference.cache
+F:\College\Semester 4\Software Quality Assurance\Assignment 1\PROG2070Assign1\PROG2070Assign1\obj\Debug\PROG2070Assign1.exe
+F:\College\Semester 4\Software Quality Assurance\Assignment 1\PROG2070Assign1\PROG2070Assign1\obj\Debug\PROG2070Assign1.pdb
