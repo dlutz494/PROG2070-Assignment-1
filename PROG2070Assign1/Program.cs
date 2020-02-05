@@ -59,6 +59,9 @@ namespace PROG2070Assign1
                 }
             } while (valid == false);
 
+            // Create a circle object with the given input
+            Circle circle = new Circle(radius);
+
             // Display menu
             while (true)
             {
@@ -83,8 +86,6 @@ namespace PROG2070Assign1
                     {
                         // Clear the screen
                         Console.Clear();
-                        // Create a circle object with the given input
-                        Circle circle = new Circle(radius);
 
                         // Get the radius of the circle
                         if (input == 1)
