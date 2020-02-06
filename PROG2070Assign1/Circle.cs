@@ -46,13 +46,13 @@ namespace PROG2070Assign1
         // Return the circumference of the circle
         public double GetCircumference()
         {
-            return 2 * Math.PI * radius;
+            return Math.Round(2 * Math.PI * radius, 4);
         }
 
         // Return the area of the circle
         public double GetArea()
         {
-            return Math.PI * (radius * radius);
+            return Math.Round(Math.PI * (radius * radius), 4);
         }
         #endregion
     }
